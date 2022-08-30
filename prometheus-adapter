@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter
+FROM gcr.io/k8s-staging-prometheus-adapter/prometheus-adapter-amd64@sha256:276d59929ae0429b2ce765f814a2ac3c4bd6e315f1a59ccd3315b0da097dcf1e
