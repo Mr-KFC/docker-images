@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-staging-kube-state-metrics/kube-state-metrics@sha256:bdab4e49d71d272cf944c8612dff5ab1250f0fafdae45c22980286ac0c016032
